@@ -1,0 +1,72 @@
+Meeting
+CSE017 class
+NV-002
+01/23/2023
+09:20
+Robert Nealy
+65
+Appointment
+Doctor
+Lehigh Valley Clinic
+02/22/2023
+11:10
+Kathy Brown
+Meeting
+Programming Club
+PA-114
+01/23/2023
+10:45
+Jack Buster
+15
+Appointment
+Bank
+Wells Fargo
+05/12/2023
+10:30
+Sarah Blank
+Meeting
+Advising
+PA-354
+03/22/2023
+16:30
+Chris Rock
+2
+Appointment
+Dentist
+Bethlehem
+02/24/2023
+13:15
+Kelly Sullivan
+Appointment
+Consulting
+PA-415
+01/26/2022
+12:15
+Shelly Roberts
+Appointment
+SPA
+Beauty & Peace
+12/20/2022
+18:00
+Lisa Lard
+Meeting
+Science Fair
+Outdoor
+04/15/2023
+10:15
+Stacy Billard
+100
+Meeting
+Research Seminar
+BC-115
+03/20/2023
+12:15
+Robin Atwood
+32
+Meeting
+Office hours
+Zoom
+01/22/2023
+14:15
+Houria Oudghiri
+50
