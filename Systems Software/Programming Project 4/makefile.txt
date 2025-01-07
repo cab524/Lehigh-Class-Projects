@@ -1,0 +1,15 @@
+test_4:
+	gcc -g -Wall -Wextra -Wwrite-strings -DNUMCHILDREN=4 -oprog4 prog4.c
+	./prog4 2>&1 | tee output
+	./checkOutput.pl output 4
+test_8:
+	gcc -g -Wall -Wextra -Wwrite-strings -DNUMCHILDREN=8 -oprog4 prog4.c
+	./prog4 2>&1 | tee output
+	./checkOutput.pl output 8
+test_16:
+	gcc -g -Wall -Wextra -Wwrite-strings -DNUMCHILDREN=16 -oprog4 prog4.c
+	./prog4 2>&1 | tee output
+	./checkOutput.pl output 16
+clean:
+	rm output*
+	rm prog4
