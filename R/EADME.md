@@ -1,4 +1,4 @@
-# Lehigh-Class-Projects
+# Lehigh Class Projects
 This repository showcases a collection of projects I completed during my computer science coursework at Lehigh University. It includes code and documentation from various assignments, group projects, and independent work that demonstrate my skills in programming, problem-solving, and software development.
 
 Classes Covered:
