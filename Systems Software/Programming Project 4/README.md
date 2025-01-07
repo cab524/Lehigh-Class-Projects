@@ -1,5 +1,4 @@
-# Programming Project 4:
-# Exceptional Control Flow: Process Control and Signals
+# Programming Project 4 (Exceptional Control Flow: Process Control and Signals)
 This project explores the core principles of process management and signal communication in C, showcasing the creation of multiple child processes that interact dynamically with a parent process through custom signal handling.
 
 In this project:
