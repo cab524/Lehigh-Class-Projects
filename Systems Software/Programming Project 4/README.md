@@ -6,5 +6,6 @@ In this project:
 - The parent process uses sigaction() to handle signals safely, responds to child processes with SIGUSR1, and accumulates values received from them.
 - Async-signal-safe programming principles are followed to ensure robust and efficient signal handling.
 - A provided Makefile and autograder validate functionality across different configurations (NUMCHILDREN = 4, 8, 16).
+  
 This project demonstrates practical implementations of process synchronization, signal handling, and system calls in C.
 
