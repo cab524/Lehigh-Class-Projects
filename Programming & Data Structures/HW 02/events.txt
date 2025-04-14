@@ -1,0 +1,40 @@
+appointment
+Bank
+Wells Fargo
+05/12/2023
+10:30
+Sarah Blank
+meeting
+CSE017 class
+NV-002
+01/23/2023
+09:20
+Robert Nealy
+65
+meeting
+Programming Club
+PA-114
+01/23/2023
+10:45
+Jack Buster
+15
+meeting
+Office hours
+Zoom
+01/22/2023
+14:15
+Houria Oudghiri
+50
+meeting
+department meeting
+PA-115
+01/22/2023
+10:45
+George Lester
+25
+appointment
+Doctor
+Lehigh Valley Clinic
+02/22/2023
+11:10
+Kathy Brown
