@@ -1,5 +1,6 @@
-## Homework Assignment: Generics and Recursion
-### This Java project demonstrates the use of generics, recursion, and comparators through the implementation of an Organizer class that maintains a sorted list of elements such as notes and contacts. Key features include:
+# Homework Assignment: Generics and Recursion
+## This Java project demonstrates the use of generics, recursion, and comparators through the implementation of an Organizer class that maintains a sorted list of elements such as notes and contacts. 
+### Key features include:
 - Generic Class Design: The Organizer<T> class uses Java’s ArrayList and supports storing any type with natural or custom ordering.
 - Recursive Binary Search: Efficiently finds elements using a generic recursive binary search algorithm.
 - Flexible Sorting: Supports dynamic sorting via Java’s Comparator interface. Includes:
