@@ -12,11 +12,11 @@
 - Dynamic Comparator Switching: Users can update the sorting logic at runtime with setComparator(), which re-sorts the list accordingly.
 - File Input: readNotes() and readContacts() methods populate the organizer with data from notes.txt and contacts.txt.
 
-### Features Tested
+### Features Tested:
 - Adding and removing notes/contacts while preserving sort order
 - Searching for entries using binary search
 - Re-sorting lists using different comparators
 - Output matches expected formatted results for both notes and contacts
 
-### Complexity
+### Complexity:
 All methods in the Organizer class are annotated with their respective time complexities using Big-O notation.
