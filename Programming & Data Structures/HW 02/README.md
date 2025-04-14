@@ -1,4 +1,4 @@
-# Project: Exception Handling and File IO
+# Homework Assignment: Exception Handling and File IO
 ## This Java application simulates a scheduling system for events such as appointments and meetings. It emphasizes clean object-oriented design, custom exceptions, file handling, user interaction, and basic search/sort functionalities.
 ### Key Features include:
 - Java Class Hierarchy: Implements a well-structured class hierarchy (Event, Appointment, Meeting, Date, and Time) based on UML specifications.
