@@ -19,4 +19,3 @@
 
 ### Complexity
 All methods in the Organizer class are annotated with their respective time complexities using Big-O notation.
-![image](https://github.com/user-attachments/assets/28f282a0-4e38-4e61-bc4b-7f2d6c7cab9f)
